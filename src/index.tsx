@@ -10,7 +10,7 @@ import Layouts from './Layouts/Index/Layouts';
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Layouts>
           <Router />
         </Layouts>
