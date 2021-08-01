@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hyoni/static/css/main.a233d030.chunk.css",
-    "main.js": "/hyoni/static/js/main.d415b6cc.chunk.js",
-    "main.js.map": "/hyoni/static/js/main.d415b6cc.chunk.js.map",
-    "runtime-main.js": "/hyoni/static/js/runtime-main.0ebf151b.js",
-    "runtime-main.js.map": "/hyoni/static/js/runtime-main.0ebf151b.js.map",
-    "static/js/2.dde668ce.chunk.js": "/hyoni/static/js/2.dde668ce.chunk.js",
-    "static/js/2.dde668ce.chunk.js.map": "/hyoni/static/js/2.dde668ce.chunk.js.map",
-    "index.html": "/hyoni/index.html",
-    "static/css/main.a233d030.chunk.css.map": "/hyoni/static/css/main.a233d030.chunk.css.map",
-    "static/js/2.dde668ce.chunk.js.LICENSE.txt": "/hyoni/static/js/2.dde668ce.chunk.js.LICENSE.txt"
+    "main.css": "/honey/static/css/main.a233d030.chunk.css",
+    "main.js": "/honey/static/js/main.87dbb4ad.chunk.js",
+    "main.js.map": "/honey/static/js/main.87dbb4ad.chunk.js.map",
+    "runtime-main.js": "/honey/static/js/runtime-main.674170c7.js",
+    "runtime-main.js.map": "/honey/static/js/runtime-main.674170c7.js.map",
+    "static/js/2.dde668ce.chunk.js": "/honey/static/js/2.dde668ce.chunk.js",
+    "static/js/2.dde668ce.chunk.js.map": "/honey/static/js/2.dde668ce.chunk.js.map",
+    "index.html": "/honey/index.html",
+    "static/css/main.a233d030.chunk.css.map": "/honey/static/css/main.a233d030.chunk.css.map",
+    "static/js/2.dde668ce.chunk.js.LICENSE.txt": "/honey/static/js/2.dde668ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ebf151b.js",
+    "static/js/runtime-main.674170c7.js",
     "static/js/2.dde668ce.chunk.js",
     "static/css/main.a233d030.chunk.css",
-    "static/js/main.d415b6cc.chunk.js"
+    "static/js/main.87dbb4ad.chunk.js"
   ]
 }
