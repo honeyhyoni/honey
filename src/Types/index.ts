@@ -1,6 +1,7 @@
 export interface IPage {
     api: string,
-    label: string
+    label: string,
+    subTitle?: string
 }
 
 export interface IPages {

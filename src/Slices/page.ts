@@ -11,6 +11,11 @@ const initialState: IPages = {
       api: '/on-company',
       label: 'On Company',
     },
+    {
+      api: '/til',
+      label: 'TIL',
+      subTitle: 'Today I Learn',
+    },
   ],
 };
 
