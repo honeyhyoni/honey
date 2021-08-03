@@ -13,13 +13,13 @@ const Header = (): JSX.Element => {
           <li className='menu-item' key={page.api}>
             <Link to={page.api}>
               <p className='menu-item-title'>
-                {page.label}
+                {page.title}
                 {' '}
                 {page.subTitle && (
                   <span className='menu-item-sub-title'>
                     (&nbsp;
                     {page.subTitle}
-                      &nbsp;)
+                    &nbsp;)
                   </span>
                 )}
               </p>
@@ -27,6 +27,7 @@ const Header = (): JSX.Element => {
           </li>
         )))}
       </ul>
+
     </HeaderStyled>
   );
 };

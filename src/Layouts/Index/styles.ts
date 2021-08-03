@@ -18,6 +18,8 @@ export const HeaderStyled = styled.div`
   
   .menu-item {
     padding: 7px;
+
+    text-align: center;
    }
    
   .menu-item-title {

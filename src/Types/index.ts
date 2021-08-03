@@ -1,6 +1,6 @@
 export interface IPage {
     api: string,
-    label: string,
+    title: string,
     subTitle?: string
 }
 

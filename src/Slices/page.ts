@@ -5,15 +5,15 @@ const initialState: IPages = {
   pages: [
     {
       api: '/',
-      label: 'Home',
+      title: 'Home',
     },
     {
       api: '/on-company',
-      label: 'On Company',
+      title: 'On Company',
     },
     {
       api: '/til',
-      label: 'TIL',
+      title: 'TIL',
       subTitle: 'Today I Learn',
     },
   ],
