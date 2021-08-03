@@ -12,22 +12,9 @@ export const HeaderStyled = styled.div`
   margin: 25px auto;
   
   .menu-list {
-    display: flex;
-    justify-content: space-between;
-  }
-  
-  .menu-item {
-    padding: 7px;
-
     text-align: center;
-   }
-   
-  .menu-item-title {
-    font-size: 20px;
-    text-shadow: 1px 1px #9e9e9e63;   
-   }
-   
-  .menu-item-sub-title{
-    font-size: 16px;
+    & > .slick-arrow {
+      background-color: green;
+    }
   }
 `;
