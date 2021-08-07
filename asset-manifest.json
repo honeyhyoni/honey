@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/honey/static/css/main.e97dd83f.chunk.css",
-    "main.js": "/honey/static/js/main.234faace.chunk.js",
-    "main.js.map": "/honey/static/js/main.234faace.chunk.js.map",
+    "main.js": "/honey/static/js/main.06bd674a.chunk.js",
+    "main.js.map": "/honey/static/js/main.06bd674a.chunk.js.map",
     "runtime-main.js": "/honey/static/js/runtime-main.674170c7.js",
     "runtime-main.js.map": "/honey/static/js/runtime-main.674170c7.js.map",
-    "static/js/2.66fde22a.chunk.js": "/honey/static/js/2.66fde22a.chunk.js",
-    "static/js/2.66fde22a.chunk.js.map": "/honey/static/js/2.66fde22a.chunk.js.map",
+    "static/css/2.6c806823.chunk.css": "/honey/static/css/2.6c806823.chunk.css",
+    "static/js/2.1e35bb25.chunk.js": "/honey/static/js/2.1e35bb25.chunk.js",
+    "static/js/2.1e35bb25.chunk.js.map": "/honey/static/js/2.1e35bb25.chunk.js.map",
     "index.html": "/honey/index.html",
+    "static/css/2.6c806823.chunk.css.map": "/honey/static/css/2.6c806823.chunk.css.map",
     "static/css/main.e97dd83f.chunk.css.map": "/honey/static/css/main.e97dd83f.chunk.css.map",
-    "static/js/2.66fde22a.chunk.js.LICENSE.txt": "/honey/static/js/2.66fde22a.chunk.js.LICENSE.txt"
+    "static/js/2.1e35bb25.chunk.js.LICENSE.txt": "/honey/static/js/2.1e35bb25.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/honey/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.674170c7.js",
-    "static/js/2.66fde22a.chunk.js",
+    "static/css/2.6c806823.chunk.css",
+    "static/js/2.1e35bb25.chunk.js",
     "static/css/main.e97dd83f.chunk.css",
-    "static/js/main.234faace.chunk.js"
+    "static/js/main.06bd674a.chunk.js"
   ]
 }
