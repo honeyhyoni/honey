@@ -1,20 +1,22 @@
 import styled from '@emotion/styled';
 
 export const LayoutsStyled = styled.div`
-  @media (min-width: 1080px) {
+  @media screen and (hover: none) and (pointer: coarse) {
+    color: pink;
   }
- 
+  
+  color: blue;
 `;
 
 export const HeaderStyled = styled.div`
-  display: block;
-  width: 65%;
-  margin: 25px auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
   
   .menu-list {
     text-align: center;
     & > .slick-arrow {
-      background-color: green;
+      background-color: inherit;
     }
   }
 `;
