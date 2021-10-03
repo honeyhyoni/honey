@@ -3,35 +3,25 @@ import { useSpring, animated } from 'react-spring';
 import { AppStyled } from './styles';
 
 const App = (): JSX.Element => {
-  const imgProps = useSpring({
+  const styleProps = useSpring({
     from: { opacity: 0 },
-    config: { duration: 2000 },
+    config: { duration: 1600 },
     loop: {
       opacity: 1,
-    },
-  });
-  const prProps = useSpring({
-    from: { y: -50 },
-    config: { duration: 1500 },
-    loop: {
-      y: -20,
     },
   });
 
   return (
     <AppStyled>
-      <div className='main-content'>
-        <animated.span
-          className='main-img'
-          style={imgProps}
-        />
-        <animated.h4
-          className='main-title'
-          style={prProps}
-        >
+      <animated.div
+        className='main-content'
+        style={styleProps}
+      >
+        <span className='main-img' />
+        <h4 className='main-title'>
           Hi This Is SuHyeon
-        </animated.h4>
-      </div>
+        </h4>
+      </animated.div>
     </AppStyled>
   );
 };
