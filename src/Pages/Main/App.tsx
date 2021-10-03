@@ -3,8 +3,7 @@ import { AppStyled } from './styles';
 
 const App = (): JSX.Element => (
   <AppStyled>
-    app
-    test
+    <div>Hi This Is SuHyeon</div>
   </AppStyled>
 );
 
