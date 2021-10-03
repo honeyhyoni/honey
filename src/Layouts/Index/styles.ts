@@ -3,7 +3,8 @@ import styled from '@emotion/styled';
 export const LayoutsStyled = styled.div`
   @media screen and (hover: none) and (pointer: coarse) {
   }
-  
+  width: 100vw;
+  height: 100vh;
 `;
 
 export const HeaderStyled = styled.div`
