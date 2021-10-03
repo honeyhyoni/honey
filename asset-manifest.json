@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/honey/static/css/main.e97dd83f.chunk.css",
-    "main.js": "/honey/static/js/main.d9a6f979.chunk.js",
-    "main.js.map": "/honey/static/js/main.d9a6f979.chunk.js.map",
+    "main.js": "/honey/static/js/main.2731494b.chunk.js",
+    "main.js.map": "/honey/static/js/main.2731494b.chunk.js.map",
     "runtime-main.js": "/honey/static/js/runtime-main.674170c7.js",
     "runtime-main.js.map": "/honey/static/js/runtime-main.674170c7.js.map",
-    "static/js/2.557df747.chunk.js": "/honey/static/js/2.557df747.chunk.js",
-    "static/js/2.557df747.chunk.js.map": "/honey/static/js/2.557df747.chunk.js.map",
+    "static/js/2.73d931b3.chunk.js": "/honey/static/js/2.73d931b3.chunk.js",
+    "static/js/2.73d931b3.chunk.js.map": "/honey/static/js/2.73d931b3.chunk.js.map",
     "index.html": "/honey/index.html",
     "static/css/main.e97dd83f.chunk.css.map": "/honey/static/css/main.e97dd83f.chunk.css.map",
-    "static/js/2.557df747.chunk.js.LICENSE.txt": "/honey/static/js/2.557df747.chunk.js.LICENSE.txt"
+    "static/js/2.73d931b3.chunk.js.LICENSE.txt": "/honey/static/js/2.73d931b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.674170c7.js",
-    "static/js/2.557df747.chunk.js",
+    "static/js/2.73d931b3.chunk.js",
     "static/css/main.e97dd83f.chunk.css",
-    "static/js/main.d9a6f979.chunk.js"
+    "static/js/main.2731494b.chunk.js"
   ]
 }
