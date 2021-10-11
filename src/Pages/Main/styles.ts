@@ -15,8 +15,8 @@ export const AppStyled = styled.div`
   
   .main-img {
     display: block;
-    width: 300px;
-    height: 200px;
+    width: 550px;
+    height: 320px;
     margin: 10vh auto;
     
     background-color: pink;
@@ -25,5 +25,7 @@ export const AppStyled = styled.div`
   
   .main-title {
     display: block;
+    
+    color: #404040;
   }
 `;

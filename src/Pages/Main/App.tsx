@@ -20,6 +20,9 @@ const App = (): JSX.Element => {
         <span className='main-img' />
         <h4 className='main-title'>
           Hi This Is SuHyeon
+          <br />
+          <br />
+          And I am Frontend Developer.
         </h4>
       </animated.div>
     </AppStyled>
